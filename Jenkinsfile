@@ -10,8 +10,7 @@ pipeline{
                 
                 script{
                     
-                    git branch: 'main', url: https://github.com/GoraDivya/demo-counter-app'
-                
+                    git branch: 'main', url: 'https:////github.com/GoraDivya/demo-counter-app'
                 }
             }
         }
